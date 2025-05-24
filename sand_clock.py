@@ -102,4 +102,4 @@ flip_btn.grid(row=0, column=3, padx=5)
 
 
 animate()             
-root.mainloop()        
+root.mainloop()
